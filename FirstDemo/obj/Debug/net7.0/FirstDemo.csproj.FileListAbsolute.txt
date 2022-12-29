@@ -1,0 +1,15 @@
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\bin\Debug\net7.0\FirstDemo.exe
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\bin\Debug\net7.0\FirstDemo.deps.json
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\bin\Debug\net7.0\FirstDemo.runtimeconfig.json
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\bin\Debug\net7.0\FirstDemo.dll
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\bin\Debug\net7.0\FirstDemo.pdb
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\FirstDemo.csproj.AssemblyReference.cache
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\FirstDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\FirstDemo.AssemblyInfoInputs.cache
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\FirstDemo.AssemblyInfo.cs
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\FirstDemo.csproj.CoreCompileInputs.cache
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\FirstDemo.dll
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\refint\FirstDemo.dll
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\FirstDemo.pdb
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\FirstDemo.genruntimeconfig.cache
+D:\CDAC_notes\DotNet\dotnet\Practice\FirstDemo\obj\Debug\net7.0\ref\FirstDemo.dll
