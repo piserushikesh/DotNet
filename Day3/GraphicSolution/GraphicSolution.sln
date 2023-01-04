@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "Test\test.csproj", "{EAFF2167-AD89-41A2-9705-12E1EA095B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing", "Drawing\Drawing.csproj", "{C11F3950-53B2-4C55-9052-39EAB10E8368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessing", "OrderProcessing\OrderProcessing.csproj", "{90D8A2FA-4D89-4273-9365-22A84B25ED6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFF2167-AD89-41A2-9705-12E1EA095B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFF2167-AD89-41A2-9705-12E1EA095B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFF2167-AD89-41A2-9705-12E1EA095B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFF2167-AD89-41A2-9705-12E1EA095B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11F3950-53B2-4C55-9052-39EAB10E8368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11F3950-53B2-4C55-9052-39EAB10E8368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11F3950-53B2-4C55-9052-39EAB10E8368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11F3950-53B2-4C55-9052-39EAB10E8368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D8A2FA-4D89-4273-9365-22A84B25ED6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D8A2FA-4D89-4273-9365-22A84B25ED6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D8A2FA-4D89-4273-9365-22A84B25ED6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D8A2FA-4D89-4273-9365-22A84B25ED6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

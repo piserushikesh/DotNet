@@ -1,0 +1,12 @@
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\obj\Debug\net7.0\Catlog.csproj.AssemblyReference.cache
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\obj\Debug\net7.0\Catlog.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\obj\Debug\net7.0\Catlog.AssemblyInfoInputs.cache
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\obj\Debug\net7.0\Catlog.AssemblyInfo.cs
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\obj\Debug\net7.0\Catlog.csproj.CoreCompileInputs.cache
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\bin\Debug\net7.0\Catlog.deps.json
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\bin\Debug\net7.0\Catlog.dll
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\bin\Debug\net7.0\Catlog.pdb
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\obj\Debug\net7.0\Catlog.dll
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\obj\Debug\net7.0\refint\Catlog.dll
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\obj\Debug\net7.0\Catlog.pdb
+D:\dotnet_workspace\Practice\DotNet\Day5\Catlog\obj\Debug\net7.0\ref\Catlog.dll
