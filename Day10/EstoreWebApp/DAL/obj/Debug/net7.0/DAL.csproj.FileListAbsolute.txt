@@ -1,0 +1,15 @@
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\bin\Debug\net7.0\DAL.dll
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\bin\Debug\net7.0\DAL.pdb
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\bin\Debug\net7.0\BOL.dll
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\bin\Debug\net7.0\BOL.pdb
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\DAL.dll
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\DAL.pdb
+D:\dotnet_workspace\Practice\DotNet\Day10\EstoreWebApp\DAL\obj\Debug\net7.0\ref\DAL.dll
