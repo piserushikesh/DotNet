@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to My Hotel</h1>
+   <ol>
+        <li>North Indian Dishesh</li>
+         <li>South Indian Dishesh</li>
+          <li>Maharashrian Darshan</li>
+   </ol>
+
+   @{
+        List<string> dishes=new List<string>();
+        <h1>Our Spciality </h1>
+       dishes.Add("Kolhapuri Thali");
+       dishes.Add("Nagpuri Savaji");
+       dishes.Add("solapuri Mutton Raan");
+        
+        <ol>
+            @foreach(string dish in dishes)
+            {
+                <li>@dish</li>
+            }
+        </ol>
+   }
+
+   <hr/>
+
+    <img src="/images/kolhapuri_thali.jpg" width="200" height="200">
+    <img src="/images/nagpur_savaji.jpg" width="200" height="200">
+    <img src="/images/solapuri_mutton_raan.jpg" width="200" height="200">
+</div>

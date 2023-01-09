@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\DelegateDemo.csproj": {}
+    "d:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\DelegateDemo.csproj": {}
   },
   "projects": {
-    "D:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\DelegateDemo.csproj": {
+    "d:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\DelegateDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\DelegateDemo.csproj",
+        "projectUniqueName": "d:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\DelegateDemo.csproj",
         "projectName": "DelegateDemo",
-        "projectPath": "D:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\DelegateDemo.csproj",
+        "projectPath": "d:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\DelegateDemo.csproj",
         "packagesPath": "C:\\Users\\rushi\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\obj\\",
+        "outputPath": "d:\\dotnet_workspace\\Practice\\DotNet\\Day6\\EventDrivenSolution\\DelegateDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rushi\\AppData\\Roaming\\NuGet\\NuGet.Config"

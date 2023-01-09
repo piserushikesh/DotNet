@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RSS_ltd/1.0.0": {
+        "runtime": {
+          "RSS_ltd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSS_ltd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

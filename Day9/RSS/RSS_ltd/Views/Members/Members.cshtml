@@ -1,0 +1,42 @@
+@{
+    ViewData["Title"] = "Our Party Members";
+}
+
+<h1>Our Party Members</h1>
+<hr/>
+<div class="text-center">
+    @{
+        List<RSS_members> allMembers=(List<RSS_members>)ViewData["member"]; 
+        <ol>
+            @for (int i = 0; i < 8; i++)
+            {
+                string newpath = "/images/"+allMembers.ElementAt(i)+".png";
+                @newpath;
+
+                <li>
+                    <span>
+                    </span>
+          
+                    <span>
+                        <img src="@newpath" width="100px">
+                    </span>
+                </li>
+            }
+            @* @foreach(RSS_members list in allMembers){
+                string newpath = "/images/"+@list.Id+".png";
+                
+                <li>
+                    <span> 
+                    @list.Name 
+                    </span>
+                    @list.City
+                    @list.Path
+                    <span>
+                        <img src="@newpath" width="100px">
+                    </span>
+                </li> *@
+            @* } *@
+        </ol>
+    } 
+    <hr/>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RSS_ltd.props" />
+</Project>

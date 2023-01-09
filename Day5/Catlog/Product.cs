@@ -1,11 +1,11 @@
 ﻿namespace Catlog;
 using System.ComponentModel.DataAnnotations;
-[Serializable]
+//[Serializable]
 public class Product
 {
 
     public int Id{get;set;}
-    [Required]
+    //[Required]
     public string Title{get;set;}
     public string Description{get;set;}
     public double UnitPrice{get;set;}

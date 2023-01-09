@@ -1,8 +1,8 @@
 ﻿using Catlog;
 using System.Collections.Generic;
-using System.IO;
+//using System.IO;
 using System.Text.Json;
-using System.Text.Json.Serialization;
+//using System.Text.Json.Serialization;
 
 Product p1=new Product{ Id=11, Title="Gerbera", Description="Wedding Flower",UnitPrice=20};
 Product p2=new Product{ Id=12, Title="Lotus", Description="Show",UnitPrice=30};
@@ -19,18 +19,19 @@ basket.Add(p4);
 
 try
 {
+    //serialization
     var options=new JsonSerializerOptions {IncludeFields=true};
     var productJson=JsonSerializer.Serialize<List<Product>>(basket,options);
-    string fileName=@"D:\dotnet_workspace\Practice\DotNet\Day5\PersistenceApp\Program.json";
+    string fileName=@"D:\dotnet_workspace\Practice\DotNet\Day5\program.json";
 
     File.WriteAllText(fileName,productJson);
-
+    //de_serialization
     string jsonString = File.ReadAllText(fileName);
     List<Product> jsonBasket = JsonSerializer.Deserialize<List<Product>>(jsonString);
     Console.WriteLine("\n JSON : Deserializing data from json file \n \n ");
     foreach( Product b in jsonBasket)
     {
-        Console.WriteLine($"{b.Title} : {b.Description}");
+        Console.WriteLine($"{b.Title} : {b.Description} ,{b.UnitPrice}");
     }
 }
 catch (Exception exp)
